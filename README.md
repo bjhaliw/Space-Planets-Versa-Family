@@ -1,2 +1,2 @@
 # Space-Planets-Versa-Family
-Fitbit Clockface for the Versa 1, 2, and Lite
+![Screenshot](https://github.com/bjhaliw/Space-Planets-Versa-Family/blob/main/Double-Planet-1%262-screenshot.png)
