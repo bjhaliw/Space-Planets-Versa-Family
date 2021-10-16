@@ -1,0 +1,27 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~4.3.0"
+  },
+  "fitbit": {
+    "appUUID": "082d7140-0636-4f49-88ea-014f89b2c008",
+    "appType": "clockface",
+    "appDisplayName": "Space Planets",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#607d8b",
+    "requestedPermissions": [
+      "access_activity",
+      "access_heart_rate"
+    ],
+    "buildTargets": [
+      "meson",
+      "mira",
+      "gemini"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "Space Planets"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}

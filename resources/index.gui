@@ -1,0 +1,31 @@
+<svg>
+  <image href="DoublePlanet.png" />
+  
+  <text id="clockLabel2" />
+  <text id="clockLabel" />
+  
+  <text id="dateLabel2" />
+  <text id="dateLabel" />
+  
+  <text id="stepsLabel2" />
+  <text id="stepsLabel" />
+  
+  <text id="caloriesLabel2" />
+  <text id="caloriesLabel" />
+  
+  <text id="heartLabel2" />
+  <text id="heartLabel" />
+  
+  <text id="zoneLabel2" />
+  <text id="zoneLabel" />
+  
+  
+  <image height="20" width="20" href="zone_black.png" x="100" y="235"/>
+  <image height="25" width="25" href="heart_black.png" x="99" y="265"/>
+  <image height="20" width="20" href="flame_black.png" x="192" y="230"/>
+  <image height="20" width="20" href="steps_black.png" x="192" y="267"/>
+  <image height="20" width="20" href="zone.png" x="98" y="233"/>
+  <image height="25" width="25" href="heart.png" x="95" y="263"/>
+  <image height="20" width="20" href="flame.png" x="190" y="232"/>
+  <image height="20" width="20" href="steps.png" x="190" y="265"/>
+</svg>
